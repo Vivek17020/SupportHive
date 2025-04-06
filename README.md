@@ -179,12 +179,7 @@ poetry run python ./customer_support_chat/app/main.py
 
 ---
 
-## 👥 Team & Context
 
-This project was built as part of the **Hack the Future: GenAI Sprint**.  
-Our solution addresses **customer support automation** using **multi-agent AI systems** deployed locally and scalably using **Ollama** and AWS-native tools.
-
----
 
 ## 📎 Useful Links
 
