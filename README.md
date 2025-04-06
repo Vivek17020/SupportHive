@@ -1,6 +1,5 @@
 # Multi-Agent RAG Customer Support System
 
-[ro-anderson](https://github.com/ro-anderson) | [LinkedIn](https://www.linkedin.com/in/ro-anderson/)
 
 ## What is this project?
 
