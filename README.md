@@ -181,7 +181,7 @@ poetry run python ./customer_support_chat/app/main.py
 
 
 
-## 📎 Useful Links
+## 📎 Reference Links
 
 - [LangGraph Adaptive RAG](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/)
 - [Corrective RAG Paper](https://arxiv.org/abs/2401.15884)
