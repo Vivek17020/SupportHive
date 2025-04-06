@@ -36,7 +36,7 @@ To ensure effective monitoring and debugging capabilities, the project integrate
 
 This architecture was designed with scalability, maintainability, and performance in mind. It focuses on creating efficient workflows across data engineering, machine learning, and AI deployment, ensuring that each component plays its role effectively. The design draws from my experience working closely with data engineering teams, as well as in roles as a Data Scientist, Machine Learning Engineer, and AI Engineer. It reflects a strong foundation in managing data pipelines, deploying machine learning models, and integrating AI solutions into real-world applications, while prioritizing security and reliability throughout the system.
 
-![app running](![multi_agent_rag_system_architecture_aws](https://github.com/user-attachments/assets/e0d5e315-a66a-444d-b5aa-0f7b4c9462cd))
+![app running]((https://github.com/user-attachments/assets/e0d5e315-a66a-444d-b5aa-0f7b4c9462cd))
 
 
 ### Data Layer
