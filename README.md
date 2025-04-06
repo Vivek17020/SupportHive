@@ -150,6 +150,19 @@ poetry run python ./customer_support_chat/app/main.py
 
 ---
 
+📂 Custom Dataset Justification
+
+For this project, we decided to work with a custom travel-focused dataset instead of the synthetic one provided by the hackathon organizers. The reason? Realism and richness. Our dataset mirrors a real-world travel and airline system — it includes detailed flight schedules, airport data, bookings, seat assignments, car rentals, hotel reservations, and even trip recommendations.
+
+This allowed us to build a much more robust, interactive, and intelligent customer support system. Our multi-agent framework powered by Ollama, LangGraph, and LangChain can now handle deeper queries like:
+
+- Booking or modifying travel itineraries
+- Checking seat availability or flight delays
+- Managing hotel or car rental services
+- Giving smart travel recommendations based on history or preferences
+
+By using a dataset that simulates actual travel operations, we’re able to demonstrate the full potential of our system in realistic customer service scenarios — something that wouldn't be possible with a synthetic dataset. It’s all about grounding the intelligence in context that matters.
+
 ## 💡 Enhancements / Next Steps
 
 ### 🔍 Tool Upgrades
