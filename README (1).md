@@ -141,7 +141,10 @@ poetry run python ./customer_support_chat/app/main.py
 ## 📊 Data Sources
 
 - **Travel DB (template)**: LangGraph Travel Benchmark
-- **Qdrant**: Stores embeddings for vector search
+- ![travel_db_schema](https://github.com/user-attachments/assets/95f26921-c3b5-49ae-84c0-f6c1b4252e71)
+
+- **Qdrant**:Stores embeddings for vector search
+-  ![qdrant_schema](https://github.com/user-attachments/assets/0b427aef-ccb3-404d-bc60-1666f20e6a2a)
 - **Redis**: Maintains chat memory and conversation history
 - **Local documents**: (Can include product catalogs, FAQs, order info, etc.)
 
